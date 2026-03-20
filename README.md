@@ -31,9 +31,9 @@ I'm currently in my second semester of the Systems Analysis and Development cour
 ##
 
 <div>
-   <a href="https://www.linkedin.com/in/ana-clara-silva-dos-santos-7bb80a295/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ana-clara-silva-dos-santos-7bb80a295/(https://mail.google.com/mail/?view=cm&fs=1&to=anacsds1@gmail.com)"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL)" target="_blank"></a> 
-</div>
+   <a href="https://www.linkedin.com/in/ana-clara-silva-dos-santos-7bb80a295/">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 <!--
 **anaacsds/anaacsds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
