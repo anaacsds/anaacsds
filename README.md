@@ -1,9 +1,24 @@
-## Hey, I'm Ana Clara. 🤟
+## Olá! Sou Ana Clara ❤️
 
-I am currently studying Systems Analysis and Development at PUC Minas.
+Atualmente estou no 2º período do curso de Análise e Desenvolvimento de Sistemas na PUC Minas.
 
-- 🔭 I'm currently developing my skills in C#, HTML, CSS, JavaScript, C, C++, Python, Java, and tools like Figma, always seeking to learn more and apply my knowledge to practical projects.
-- 💼 I'm interested in starting my professional career as an intern in the technology field, to gain experience, contribute to teams, and constantly evolve as a developer.
+- 🔭 No momento, estou desenvolvendo minhas habilidades em C#, Banco de Dados e JavaScript, buscando sempre aprender mais e aplicar meus conhecimentos em projetos práticos. 
+
+- 🎀 Faço parte também do projeto de extensão Elas++ da PUC, iniciativa voltada ao fortalecimento da presença feminina na tecnologia por meio de aprendizado, colaboração e desenvolvimento de soluções inovadoras.
+
+- 💼 Tenho interesse em iniciar minha carreira profissional como estagiária na área de tecnologia, para adquirir experiência, contribuir com equipes e evoluir constantemente como desenvolvedora.
+
+---
+
+## Hi! I'm Ana Clara ❤️
+
+I'm currently in my second semester of the Systems Analysis and Development course at PUC Minas.
+
+- 🔭 At the moment, I'm developing my skills in C#, Databases, and JavaScript, always seeking to learn more and apply my knowledge to practical projects.
+
+- 🎀 I'm also part of the Elas++ extension project at PUC, an initiative focused on strengthening the presence of women in technology through learning, collaboration, and the development of innovative solutions.
+
+- 💼 I'm interested in starting my professional career as a technology intern to gain experience, contribute to teams, and constantly evolve as a developer.
 
 ##
 
