@@ -20,6 +20,13 @@ I'm currently in my second semester of the Systems Analysis and Development cour
 
 - 💼 I'm interested in starting my professional career as a technology intern to gain experience, contribute to teams, and constantly evolve as a developer.
 
+---
+
+## ⭐ GitHub Stats
+<a href="https://github.com/anaacsds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
+
 ##
 
 <div>
