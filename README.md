@@ -1,4 +1,4 @@
-## Olá! Sou Ana Clara ❤️
+## Olá! Sou Ana Clara 
 
 Atualmente estou no 2º período do curso de Análise e Desenvolvimento de Sistemas na PUC Minas.
 
@@ -10,7 +10,7 @@ Atualmente estou no 2º período do curso de Análise e Desenvolvimento de Siste
 
 ---
 
-## Hi! I'm Ana Clara ❤️
+## Hi! I'm Ana Clara 
 
 I'm currently in my second semester of the Systems Analysis and Development course at PUC Minas.
 
