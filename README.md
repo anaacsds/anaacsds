@@ -1,6 +1,6 @@
 ## Olá! Sou Ana Clara 
 
-Atualmente estou no 2º período do curso de Análise e Desenvolvimento de Sistemas na PUC Minas.
+Atualmente estou no 3º período do curso de Análise e Desenvolvimento de Sistemas na PUC Minas.
 
 - No momento, estou desenvolvendo minhas habilidades em C#, Banco de Dados e JavaScript, buscando sempre aprender mais e aplicar meus conhecimentos em projetos práticos. 
 
