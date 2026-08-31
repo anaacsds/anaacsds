@@ -12,7 +12,7 @@ Atualmente estou no 3º período do curso de Análise e Desenvolvimento de Siste
 
 ## Hi! I'm Ana Clara 
 
-I'm currently in my second semester of the Systems Analysis and Development course at PUC Minas.
+I'm currently in my third semester of the Systems Analysis and Development course at PUC Minas.
 
 - At the moment, I'm developing my skills in C#, Databases, and JavaScript, always seeking to learn more and apply my knowledge to practical projects.
 
